@@ -1,0 +1,35 @@
+{
+	"data": [
+		{
+			"dataId": 0,
+			"userDataId": "user111",
+			"userDataPw": "user111!",
+			"userDataName": "홍길동",
+			"channelDatas": [
+				{
+					"id": 0,
+					"channelId": "PLr0T5CaHaPwVVVUeriESL3fyfF3eRUuHr",
+					"channelName": "[🧑‍⚕️슬기로운 의사생활] 미도와 파라솔"
+				},
+				{
+					"id": 1,
+					"channelId": "PLdyB3s37qpTPuJSn-LjZqBFuf7u-XmA1z",
+					"channelName": "사이코지만 괜찮아"
+				}
+			]
+		},
+		{
+			"dataId": 1,
+			"userDataId": "user222",
+			"userDataPw": "user222!",
+			"userDataName": "홍길순",
+			"channelDatas": [
+				{
+					"id": 0,
+					"channelId": "PLr0T5CaHaPwVVVUeriESL3fyfF3eRUuHr",
+					"channelName": "[🧑‍⚕️슬기로운 의사생활] 미도와 파라솔"
+				}
+			]
+		}
+	]
+}
